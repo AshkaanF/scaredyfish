@@ -1,0 +1,2 @@
+# scaredyfish v0.1
+See the notebook `simulate.ipynb` to run an example simulation. To open the notebook, first [install IJulia](https://julialang.github.io/IJulia.jl/stable/manual/installation/). Before entering the Julia REPL, first set the number of available threads using `export JULIA_NUM_THREADS=N`, where `N` is the number of threads you'd like to devote to simulations. To start the notebook, open the Julia REPL and run ` using IJulia; notebook()`. Please see `scaredyfish.jl` for a (short) list of required Julia libraries.
